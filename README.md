@@ -1,3 +1,1 @@
-# labexam2
-haripriya vh
-porkulam
+haripriya porkulam
